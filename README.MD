@@ -26,7 +26,3 @@ Cette application Android permet de sauvegarder, charger et effacer des données
     - Cliquez sur le bouton **EFFACER** pour effacer les données sauvegardées et vider les champs de texte.
 
 <img src="screenshots/App.png" alt="Main Screen" width="400"/>
-
-<img src="screenshots/file_explorer.png" alt="File Explorer" width="400"/>
-
-<img src="screenshots/mypref_file.png" alt="MyPref File" width="400"/>
